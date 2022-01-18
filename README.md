@@ -8,9 +8,12 @@ This is a very simple library defines the unit of time, like `millisecond per se
 
 ## Usage
 
+`import { SECOND } from "@unit/time"`
+
 #### Time in millisecond
 
 | Constant Name                     | Number                  |
+|-----------------------------------|-------------------------|
 | MILLISECOND_UNIT                  | 1                       |
 | SECOND                            | 1000                    |
 | MINUTE                            | 60000                   |
@@ -27,6 +30,7 @@ This is a very simple library defines the unit of time, like `millisecond per se
 #### Time in second
 
 | Constant Name                     | Number                  |
+|-----------------------------------|-------------------------|
 | SECOND_UNIT                       | 1                       |
 | SECOND_PER_MINUTE                 | 60                      |
 | SECOND_PER_HOUR                   | 3600                    |
