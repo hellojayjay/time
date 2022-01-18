@@ -1,14 +1,14 @@
-# time-unit
+# @unit/time
 
 This is a very simple library defines the unit of time, like `millisecond per second`, `millisecond per minute`, `millisecond per hour`, etc.
 
 ## Install
 
-`npm install time-unit`
+`npm install @unit/time`
 
 ## Usage
 
-`import { SECOND } from "time-unit"`
+`import { SECOND } from "@unit/time"`
 
 #### Time in millisecond
 
