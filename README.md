@@ -1,14 +1,14 @@
-# @unit/time
+# @hellojayjay/time
 
 This is a very simple library defines the unit of time, like `millisecond per second`, `millisecond per minute`, `millisecond per hour`, etc.
 
 ## Install
 
-`npm install @unit/time`
+`npm install @hellojayjay/time`
 
 ## Usage
 
-`import { SECOND } from "@unit/time"`
+`import { SECOND } from "@hellojayjay/time"`
 
 #### Time in millisecond
 
