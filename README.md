@@ -1,5 +1,8 @@
 # @hellojayjay/time
 
+![npm](https://img.shields.io/npm/dm/@hellojayjay/time)
+![npm](https://img.shields.io/npm/v/@hellojayjay/time)
+
 This is a very simple library defines the constants of unit of time, like `millisecond per second`, `millisecond per minute`, `millisecond per hour`, `second per minute` etc.
 
 ## Install
