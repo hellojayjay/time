@@ -1,5 +1,6 @@
 # @hellojayjay/time
 
+[![Build Status](https://travis-ci.com/hellojayjay/time.svg?branch=master)](https://travis-ci.com/hellojayjay/time)
 ![npm](https://img.shields.io/npm/dm/@hellojayjay/time)
 ![npm](https://img.shields.io/npm/v/@hellojayjay/time)
 
