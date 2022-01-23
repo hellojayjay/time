@@ -1,6 +1,6 @@
 # @hellojayjay/time
 
-This is a very simple library defines the unit of time, like `millisecond per second`, `millisecond per minute`, `millisecond per hour`, etc.
+This is a very simple library defines the constants of unit of time, like `millisecond per second`, `millisecond per minute`, `millisecond per hour`, `second per minute` etc.
 
 ## Install
 
@@ -8,7 +8,13 @@ This is a very simple library defines the unit of time, like `millisecond per se
 
 ## Usage
 
-`import { SECOND } from "@hellojayjay/time"`
+```javascript
+import { SECOND } from "@hellojayjay/time"
+
+setInterval(() => {
+  doSomething()
+}, 3 * SECOND)
+```
 
 #### Time in millisecond
 
